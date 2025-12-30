@@ -1,5 +1,22 @@
-# 💫 About Me:
-🚀 Introduction<br>I am a Mobile & Backend Developer with 1+ years of experience. I bridge the gap between high-performance Flutter apps and robust Java backends, specializing in turning complex data into user-focused solutions.<br><br>🛠️ Quick Info<br>I’m currently working on: Scalable Flutter apps and Java-based API optimizations.<br>I’m looking to collaborate on: Open-source mobile projects or EdTech solutions.<br>I’m looking for help with: Advanced System Design and DevOps.<br>I’m currently learning: AI integration in mobile apps & Spring Boot.<br>Ask me about: Flutter UI, Firebase, or Data Automation (App Script/Power BI).<br><br>✨ 4 Fun Facts<br><br>Gov-Tech Roots: I’ve built data tools for NITI Aayog and NIC.<br>Hybrid Skills: I’m 50% Developer, 50% Data Analyst.<br>Automation Nerd: I’ll script any repetitive task to save 5 minutes.<br>Logic First: I enjoy solving complex SQL queries as much as styling UI.
+# 🚀 Hi there, I'm [Your Name]!
+
+**Full-Stack Developer & Data Analyst**
+I bridge the gap between high-performance **Flutter** apps and robust **Java** backends to build scalable, user-focused solutions. With a background at **NITI Aayog**, I specialize in turning complex data into automated dashboards and intuitive mobile experiences. Currently, I'm mastering **Spring Boot** and **AI integration** while automating everything in between. 
+
+### 🛠️ Quick Info
+- **Focus:** Flutter apps, Java API optimization, and Data Automation.
+- **Learning:** AI integration in mobile apps & Spring Boot.
+- **Collaborating on:** Open-source mobile projects or EdTech solutions.
+- **Ask me about:** Flutter UI, Firebase, or App Script/Power BI.
+
+### ✨ 4 Fun Facts
+- 🏛️ **Gov-Tech Roots:** Built data tools for NITI Aayog and NIC.
+- ⚖️ **Hybrid Skills:** 50% Developer, 50% Data Analyst.
+- 🤖 **Automation Nerd:** I’ll script any repetitive task to save 5 minutes.
+- 🧠 **Logic First:** I love complex SQL queries as much as styling UI.
+
+### 📊 Let's Connect:
+[Add your LinkedIn Link] | [Add your Portfolio Link]
 
 
 # 💻 Tech Stack:
