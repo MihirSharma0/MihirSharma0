@@ -16,8 +16,7 @@ I bridge the gap between high-performance **Flutter** apps and robust **Java** b
 - 🧠 **Logic First:** I love complex SQL queries as much as styling UI.
 
 ### 📊 Let's Connect:
-https://www.linkedin.com/in/mihir-sharma-data-ai/ 
-https://mihir-sharma-portfolio.netlify.app
+https://www.linkedin.com/in/mihir-sharma-data-ai/   |    https://mihir-sharma-portfolio.netlify.app
 
 
 # 💻 Tech Stack:
