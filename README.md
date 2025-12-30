@@ -1,4 +1,4 @@
-# 🚀 Hi there, I'm [Your Name]!
+# 🚀 Hi there, I'm Mihir Sharma!
 
 **Full-Stack Developer & Data Analyst**
 I bridge the gap between high-performance **Flutter** apps and robust **Java** backends to build scalable, user-focused solutions. With a background at **NITI Aayog**, I specialize in turning complex data into automated dashboards and intuitive mobile experiences. Currently, I'm mastering **Spring Boot** and **AI integration** while automating everything in between. 
@@ -16,7 +16,7 @@ I bridge the gap between high-performance **Flutter** apps and robust **Java** b
 - 🧠 **Logic First:** I love complex SQL queries as much as styling UI.
 
 ### 📊 Let's Connect:
-[Add your LinkedIn Link] | [Add your Portfolio Link]
+https://www.linkedin.com/in/mihir-sharma-data-ai/ | https://mihir-sharma-portfolio.netlify.app
 
 
 # 💻 Tech Stack:
